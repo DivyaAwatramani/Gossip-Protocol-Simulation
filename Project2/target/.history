@@ -1,0 +1,10 @@
+compile
+run 64 full Gossip
+compile
+run 64 full Gossip
+run 1000 line Gossip
+run 10000 line Gossip
+run
+run 343 line Gossip
+exi
+exit
